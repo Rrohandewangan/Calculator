@@ -18,4 +18,4 @@ A simple web-based calculator built with HTML, CSS, and JavaScript.
 
 ## Author
 Created as a frontend practice project.
->>>>>>> 74341a4 (initial commit)
+Created By -> Rohan Dewangan
